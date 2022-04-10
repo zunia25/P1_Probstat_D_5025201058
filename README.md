@@ -178,6 +178,17 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
    
    Hasil dari program diatas
    
+   ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/4a.png)
+   
+   - Histogram dari Distribusi Chi-Square dengan 100 data random\
+   
+   ```R
+   #no 4b
+   hist(rchisq(100, 10))
+   ```
+   
+   Hasil dari program diatas
+   
    ![alt text]()
 
 
