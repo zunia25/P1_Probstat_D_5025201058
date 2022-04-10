@@ -133,7 +133,22 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
   
   Hasil dari program diatas
   
-  ![alt text]()
+  ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/3a.png)
+  
+  - simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama
+    setahun (n = 365)
+    
+   ```R
+   #no 3 b
+   peluang = dpois(6, 4.5)
+   data = data.frame(y = c(peluang), x = c(1:365))
+   barplot(data$y, names.arg=data$x, ylab="peluang", xlab="hari ke-", ylim=0:1)
+   ```
+   
+   Hasil dari program diatas
+   
+   ![alt text]()
+
 
 
      
