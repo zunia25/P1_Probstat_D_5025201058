@@ -163,6 +163,21 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
     
    Hasil dari program diatas 
    
+   ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/3d.png)
+   
+   
+   ## soal 4
+   Diketahui nilai x = 2 dan v = 10. Tentukan
+   
+   - Fungsi Probabilitas dari Distribusi Chi-Square.
+   
+   ```R
+   #no 4a
+   dchisq(2, 10)
+   ```
+   
+   Hasil dari program diatas
+   
    ![alt text]()
 
 
