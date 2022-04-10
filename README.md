@@ -14,7 +14,7 @@ sebelum keberhasilan pertama ketika p = 0,20 dari populasi menghadiri acara vaks
 dgeom(3, .20)
 ```
 
-  Hasil dari program diatas 
-  ![alt text}
-  https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/1a.png
+  Hasil dari program diatas
+  
+  ![alt text}(https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/1a.png)
 
