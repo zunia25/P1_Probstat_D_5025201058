@@ -291,7 +291,22 @@ paste("x2 = ", x2)
 
 Hasil dari program diatas 
 
+![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/6a.png)
+
+- Generate Histogram dari Distribusi Normal dengan breaks 50 dan format penamaan:
+NRP_Nama_Probstat_{Nama Kelas}_DNhistogram
+Contoh :
+312312312_Rola_Probstat_A_DNhistogram
+
+```R
+#no 6b
+hist(rnorm(n, mean, sd), breaks, main="5025201058_Zunia Aswaroh_D_DNhistogram")
+```
+
+hasil dari program diatas
+
 ![alt text]()
+
 
 
   
