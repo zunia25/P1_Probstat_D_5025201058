@@ -89,7 +89,28 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
    
    Hasil dari program diatas 
    
+   ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/2a.png)
+   
+   - Gambarkan grafik histogram berdasarkan kasus tersebut.
+   
+   ```R
+   success <- 0 : 10
+   plot(success,dbinom(success,size = 4, prob = .2),
+   col = "purple",
+   type = 'h',
+   main = 'Binomial Distribution (n = 4, p = 0.2)',
+   ylab = ' probability',
+   xlab = 'Successes',
+   lwd = 20)
+   ```
+   Hasil dari program diatas 
+   
    ![alt text]()
+     
+     
+     
+    
+
    
 
 
