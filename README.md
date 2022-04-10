@@ -305,6 +305,18 @@ hist(rnorm(n, mean, sd), breaks, main="5025201058_Zunia Aswaroh_D_DNhistogram")
 
 hasil dari program diatas
 
+![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/6b.png)
+
+- Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.
+
+```R
+#no 6c
+varian = `^`(sd, 2)
+varian
+```
+
+Hasil dari program diatas 
+
 ![alt text]()
 
 
