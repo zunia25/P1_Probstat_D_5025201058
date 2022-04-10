@@ -252,7 +252,47 @@ varian
 
 Hasil dari program diatas 
 
+![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/5c.png)
+
+## soal 6
+Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
+
+- Fungsi Probabilitas dari Distribusi Normal P(X1 ≤ x ≤ X2), hitung Z-Score Nya dan plot
+data generate randomnya dalam bentuk grafik. Petunjuk(gunakan fungsi plot()).
+Keterangan :
+X1 = Dibawah rata-rata
+X2 = Diatas rata-rata
+Contoh data :
+1,2,4,2,6,3,10,11,5,3,6,8
+rata-rata = 5.083333
+X1 = 5
+X2 = 6
+
+```R
+#no 6a
+par(mfrow = c(2,1))
+data = rnorm(n, mean, sd)
+z_score = c()
+for (d in data){
+  z = (d - mean)/sd
+  z_score = append(z_score, z)
+  
+  if (d < mean){
+    x1 = x1 + 1
+  }else{
+    x2 = x2 + 1
+  }
+}
+result = plot(z_score, type='l')
+paste("Mean = ", mean)
+paste("x1 = ", x1)
+paste("x2 = ", x2)
+```
+
+Hasil dari program diatas 
+
 ![alt text]()
+
 
   
      
