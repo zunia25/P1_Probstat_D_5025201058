@@ -16,5 +16,5 @@ dgeom(3, .20)
 
   Hasil dari program diatas
   
-  ![alt text}(https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/1a.png)
+  ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/1a.png)
 
