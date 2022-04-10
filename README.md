@@ -235,7 +235,25 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
   
   Hasil dari program diatas 
   
-  ![alt text]()
+  ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/5b.png)
+  
+  - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3
+Petunjuk:
+● Gunakan set.seed(1)
+● Gunakan fungsi bawaan R
+
+```R
+#no 5c
+mean = lmbd
+mean
+varian = `^`(lmbd, 2)
+varian
+```
+
+Hasil dari program diatas 
+
+![alt text]()
+
   
      
      
