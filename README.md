@@ -119,6 +119,23 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
    Hasil Dari program diatas 
    
    ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/2c.png)
+   
+   ## soal 3
+   Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis
+   4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
+   
+   - Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
+  
+  ```R
+  #no 3 a
+  dpois (x = 6, lambda = 4.5)
+  ```
+  
+  Hasil dari program diatas
+  
+  ![alt text]()
+
+
      
      
      
