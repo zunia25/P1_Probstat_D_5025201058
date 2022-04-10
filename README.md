@@ -72,6 +72,7 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
    ```
    
    hasil dari program di atas 
-   ![alt text]()
+   
+   ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/1e.png)
 
 
