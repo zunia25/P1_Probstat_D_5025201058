@@ -153,7 +153,7 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
      > Dari data dan perhitungan  tersebut dapat dikatakan bahwa distribusi poisson pada kelahiran bayi dari hari pertama hingga terakhir adalah sama
    
    - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
-    
+   
     ```R
     #no 3 d
     varian = mean
@@ -161,7 +161,7 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
     varian
     ```
     
-   Hasil dari program diatas 
+    Hasil dari program diatas 
    
    ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/3d.png)
    
