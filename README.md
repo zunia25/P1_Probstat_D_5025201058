@@ -33,6 +33,10 @@ dgeom(3, .20)
   - Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?
   
     > Hasil dari perbandingan antara poin a dan b adalah poin a memiliki hasil yang tetap sedangkan poin b memiliki hasil yang selalu berubah atau random sehingga    hasilnya juga tidak terlalu berbeda jauh.
+   
+   Bukti poin b yang hasilnya random
+   
+   ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/1c.png)
     
   - Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama
 
