@@ -203,6 +203,20 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
   
   Hasil dari program diatas
   
+  ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/4c.png)
+  
+  ## soal 5
+  Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
+   
+  -  Fungsi Probabilitas dari Distribusi Exponensial
+  ```R
+  #no 5a
+  lmbd = 3
+  dexp(lmbd)
+  ```
+  
+  Hasil dari program diatas 
+  
   ![alt text]()
 
      
