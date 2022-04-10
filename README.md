@@ -189,8 +189,21 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
    
    Hasil dari program diatas
    
-   ![alt text]()
+   ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/4b.png)
 
+  - Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square.
+
+  ```R
+  #no 4c
+  mean = 10
+  mean
+  varian = 2 * 10
+  varian
+  ```
+  
+  Hasil dari program diatas
+  
+  ![alt text]()
 
      
      
