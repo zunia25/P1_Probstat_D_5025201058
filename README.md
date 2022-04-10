@@ -17,4 +17,17 @@ dgeom(3, .20)
   Hasil dari program diatas
   
   ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/1a.png)
+  
+  - mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribusi
+  geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )
+  
+  ```R
+  #no 1b
+  mean(rgeom( n = 10000, prob = .20) == 3)
+  ```
+  
+  Hasil dari program di atas 
+  
+  ![alt text] (
+
 
