@@ -63,5 +63,15 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
    
    - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.
 
+   ```R
+   #no 1 e
+   mean = 3 * 0.20
+   mean
+   varian = 3 * 0.20 * (1 - 0.20)
+   varian
+   ```
+   
+   hasil dari program di atas 
+   ![alt text]()
 
 
