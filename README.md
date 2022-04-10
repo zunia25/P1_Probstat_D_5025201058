@@ -217,8 +217,10 @@ ggplot(aes(x = factor(x), y = prob, fill = failures)) +
   
   Hasil dari program diatas 
   
-  ![alt text]()
+  ![alt text](https://github.com/zunia25/P1_Probstat_D_5025201058/blob/main/File_Praktikum_Probstat/5a.png)
 
+  - Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random
+  
      
      
      
